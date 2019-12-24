@@ -17,5 +17,6 @@
 ## Interação Humano-Computador
 
 * [Introdução](interacao-humano-computador/introducao.md)
+* [Ferramentas](ferramentas.md)
 * [Referências](referencias.md)
 
