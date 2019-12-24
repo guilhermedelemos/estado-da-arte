@@ -12,7 +12,7 @@
 
 ## Redes de Computadores
 
-* [Redes de Computadores](redes-de-computadores/redes-de-computadores.md)
+* [Introdução](redes-de-computadores/redes-de-computadores.md)
 
 ## Interação Humano-Computador
 
