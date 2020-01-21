@@ -9,6 +9,7 @@
 ## Engenharia de Software
 
 * [Introdução](engenharia-de-software/introducao.md)
+* [SOLID \(draft\)](engenharia-de-software/solid-draft.md)
 
 ## Redes de Computadores
 
