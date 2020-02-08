@@ -1,8 +1,0 @@
----
-description: Descrição
----
-
-# Introdução
-
-Conteúdo
-
