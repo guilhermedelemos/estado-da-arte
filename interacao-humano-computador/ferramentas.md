@@ -1,8 +1,4 @@
----
-description: Ferramentas úteis
----
-
-# Ferramentas
+# Tecnologias Assistivas
 
 ## Leitores de Tela
 

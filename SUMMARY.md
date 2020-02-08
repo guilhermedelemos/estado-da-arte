@@ -18,6 +18,6 @@
 ## Interação Humano-Computador
 
 * [Introdução](interacao-humano-computador/introducao.md)
-* [Ferramentas](interacao-humano-computador/ferramentas.md)
+* [Tecnologias Assistivas](interacao-humano-computador/ferramentas.md)
 * [Referências](interacao-humano-computador/referencias.md)
 
