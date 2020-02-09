@@ -8,7 +8,7 @@
 
 ## Interação Humano-Computador
 
-* [Introdução](interacao-humano-computador/introducao.md)
+* [Apple](interacao-humano-computador/introducao.md)
 * [Tecnologias Assistivas](interacao-humano-computador/ferramentas.md)
 * [Referências](interacao-humano-computador/referencias.md)
 
