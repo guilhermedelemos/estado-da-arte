@@ -4,7 +4,7 @@ description: Os cinco princípios básicos da programação orientada a objetos
 
 # SOLID \(draft\)
 
-Introdução
+SOLID é um conjunto de 5 princípios aplicados a programação orientada à objetos que tem por objetivo facilitar o desenvolvimento de software tornando o  código-fonte mais fácil de manter e estender.
 
 ## Single Responsibility Principle \(SRP\)
 
