@@ -16,19 +16,37 @@
 
 #### Década de 80 \(mainframes\)
 
-![Fonte: Desconhecido.](../.gitbook/assets/mainframe-1.jpg)
+![Fonte: Desconhecido](../.gitbook/assets/mainframe-1.jpg)
 
-![Fonte: Desconhecido.](../.gitbook/assets/mainframe-2.jpg)
+![Fonte: Desconhecido](../.gitbook/assets/mainframe-2.jpg)
 
 #### Década de 90 \(computadores pessoais\)
 
+![IBM PC. Fonte: IBM](../.gitbook/assets/ibm-pc-5150.jpg)
+
+![Personal Computer. Fonte: Desconhecido](../.gitbook/assets/pc-game-monkey-island.jpeg)
+
 #### Década de 2000 \(Web 2.0\)
+
+![Fonte: Desconhecido](../.gitbook/assets/web2.0.jpg)
 
 #### Década de 2010 \(Dispositivos móveis\)
 
+![Fonte: Desconhecido](../.gitbook/assets/dispositivos-moveis.jpg)
+
+![Apple Macbook](../.gitbook/assets/apple-macbook-air-2020.png)
+
+![Apple Iphone](../.gitbook/assets/apple-iphone-11.jpeg)
+
 #### Década de 2020 \(Dispositivos "inteligentes" vestíveis, realidade virtual e aumentada\)
 
-#### Década de 2030 \(?\)
+![Apple iWatch](../.gitbook/assets/apple-iwatch.jpg)
+
+![Mi Band](../.gitbook/assets/mi-band.jpg)
+
+![Google Glass AR](../.gitbook/assets/google-glass.jpg)
+
+![Oculus VR](../.gitbook/assets/vr-oculus.jpg)
 
 ## Impacto
 
