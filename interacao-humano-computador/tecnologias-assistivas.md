@@ -1,9 +1,3 @@
----
-description: >-
-  Ferramentas utilizadas por usuários com deficiência para interação com
-  dispositivos eletrônicos.
----
-
 # Tecnologias Assistivas
 
 ## Leitores de Tela
@@ -16,4 +10,3 @@ description: >-
 | [Jaws](https://www.freedomscientific.com/products/software/jaws/) | Windows | Pago |
 | [DOSVOX](http://intervox.nce.ufrj.br/dosvox) | Windows | Gratuito |
 | [Virtual Vision](https://www.virtualvision.com.br) | Windows | Pago |
-
