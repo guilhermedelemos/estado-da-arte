@@ -30,15 +30,13 @@
 
 ![Fonte: Desconhecido](../.gitbook/assets/web2.0.jpg)
 
-#### Década de 2010 \(Dispositivos móveis\)
-
 ![Fonte: Desconhecido](../.gitbook/assets/dispositivos-moveis.jpg)
 
 ![Apple Macbook](../.gitbook/assets/apple-macbook-air-2020.png)
 
 ![Apple Iphone](../.gitbook/assets/apple-iphone-11.jpeg)
 
-#### Década de 2020 \(Dispositivos "inteligentes" vestíveis, realidade virtual e aumentada\)
+#### Década de 2010 \(Dispositivos "inteligentes" vestíveis, realidade virtual e aumentada\)
 
 ![Apple iWatch](../.gitbook/assets/apple-iwatch.jpg)
 
