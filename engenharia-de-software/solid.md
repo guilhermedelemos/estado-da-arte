@@ -4,7 +4,7 @@ description: Os cinco princípios básicos da programação orientada a objetos
 
 # SOLID \(draft\)
 
-SOLID é um conjunto de 5 princípios aplicados a programação orientada à objetos que tem por objetivo facilitar o desenvolvimento de software tornando o  código-fonte mais fácil de manter e estender.
+SOLID é um conjunto de 5 princípios aplicados a programação orientada à objetos que tem por objetivo facilitar o desenvolvimento de software tornando o código-fonte mais fácil de manter e estender.
 
 ## Single Responsibility Principle \(SRP\)
 
@@ -32,7 +32,7 @@ class Aluno {
     private String nome;
     private Double nota1;
     private Double nota2;
-    
+
     public double calcularMedia() {/*...*/}
     public List<Aluno> findAll() {/*...*/}
     public void save(Aluno aluno) {/*...*/}
@@ -47,7 +47,7 @@ class Aluno {
     private String nome;
     private Double nota1;
     private Double nota2;
-    
+
     public double calcularMedia() {/*...*/}
 }
 
@@ -147,7 +147,7 @@ public class Exemplo {
     public static void main(String args[]) {
         Computador recepcao = new Computador();
         Laptop salaReuniao = new Laptop();
-        
+
         desligarComputador(recepcao);
         desligarComputador(salaReuniao);
     }

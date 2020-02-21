@@ -1,4 +1,4 @@
-# Apple
+# Tecnologias Assistivas
 
 A Apple, uma das maiores empresas do mundo, desenvolve produtos de alta tecnologia para o usuário final. Ela foi responsável por várias revoluções na área de TI sendo a introdução do smartphone no mercado mundial, talvez, a mais lembrada.
 
@@ -27,3 +27,4 @@ A seguir são apresentados os equipamentos desenvolvidos por ela ao longo de sua
 ## Terceira década do século XXI \(2020 ~ 2029\)
 
 ![Apple Macbook Air \(2020\)](../.gitbook/assets/apple-macbook-air-2020.png)
+
