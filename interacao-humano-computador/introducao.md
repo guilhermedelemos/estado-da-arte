@@ -30,7 +30,27 @@
 
 #### Década de 2030 \(?\)
 
-## Evolução da interação humana com o computador
+## Impacto
+
+Frente a evolução da TIC, ela passa a fazer parte do cotidiano das mais básicas atividades até as mais complexas.
+
+Computadores pessoais passaram a caber dentro do bolso.
+
+Entretenimento \(filmes, games, etc\) passam a se beneficiar ativamente da TIC.
+
+Programas de TV e rádio passaram a aumentar seu impacto frente aos consumidores com apoio da TIC.
+
+Consoles \(vídeo-game\) passam a estar constantemente conectados a internet permitindo interações entre jogadores geograficamente separados.
+
+TVDI \(TV Digital Interativa\) é uma promessa que luta para encontrar uma forma de interação que traga benefícios ao usuário, mas as possibilidades são incríveis.
+
+O Estado \(Governo Federal, estadual e municipal\) passam a oferecer serviços digitais aumentando sua eficiência.
+
+A Urna Eletrônica revolucionou a forma de votar no Brasil, permitindo aferir o resultado no mesmo dia da votação.
+
+
+
+
 
 
 
