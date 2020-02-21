@@ -10,6 +10,7 @@
 
 * [Introdução](interacao-humano-computador/introducao.md)
 * [Interação](interacao-humano-computador/interacao.md)
+* [Interface](interacao-humano-computador/interface.md)
 * [Usabilidade](interacao-humano-computador/usabilidade.md)
 * [Apple](interacao-humano-computador/apple.md)
 * [Tecnologias Assistivas](interacao-humano-computador/tecnologias-assistivas.md)
