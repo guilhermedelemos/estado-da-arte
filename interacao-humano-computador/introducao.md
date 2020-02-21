@@ -4,8 +4,6 @@
 
 > Modos, meios e processos envolvidos no uso de tecnologias de informação e comunicação \(TIC\).
 
-
-
 ## Tecnologia da Informação e Comunicação
 
 > São sistemas computacionais compostos por hardware, software e meios de comunicação.
