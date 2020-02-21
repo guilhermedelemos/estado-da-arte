@@ -48,9 +48,23 @@ O Estado \(Governo Federal, estadual e municipal\) passam a oferecer serviços d
 
 A Urna Eletrônica revolucionou a forma de votar no Brasil, permitindo aferir o resultado no mesmo dia da votação.
 
+## Multidisciplinaridade
 
+Necessidade de envolver profissionais de diversas áreas de conhecimento para melhor atender ao usuário final.
 
+> IHC se beneficia de conhecimentos e métodos de outras áreas fora da Computação para conhecer melhor os fenômenos envolvidos no uso de sistemas computacionais interativos.
 
+* Psicologia
+* Sociologia
+* Antropologia
 
+##  Benefícios
 
+Aumentar a qualidade da interação entre o ser humano e o sistema interativo.
+
+* Aumento da produtividade do usuário.
+* Reduzir o número e a gravidade de erros cometidos pelo usuário.
+* Reduzir o custo de treinamento do usuário ao sistema.
+* Reduzir o custo do suporte técnico ao sistema.
+* Aumentar a fidelidade do usuário ao sistema.
 
