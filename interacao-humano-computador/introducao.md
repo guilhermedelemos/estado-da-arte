@@ -52,8 +52,6 @@
 
 {% embed url="https://youtu.be/YpjTxcFQXo0" caption="AGDQ 2020 - The Legend of Zelda: A Link To The Past CROWD CONTROL" %}
 
-
-
 ## Impacto
 
 Frente a evolução da TIC, ela passa a fazer parte do cotidiano das mais básicas atividades até as mais complexas.
