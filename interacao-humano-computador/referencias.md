@@ -10,7 +10,7 @@ DELK, Clay. **Content Strategy in the Wild: Labels, Design & User Expectations**
 
 HANNAH, JAYE. **10 Classic UX Design Fails That Teach Us How Not To Do UX**. 2020. Disponível em: [http://bit.ly/3bYrgcz](http://bit.ly/3bYrgcz). Acesso em: 20 fev. 2020.
 
-KAMBLE, Rupali; SHAH, Deepali. **Applications of Artificial Intelligence in Human Life**. International Journal of Research - Granthaalayah, jun. 2018.
+KAMBLE, Rupali; SHAH, Deepali. **Applications of Artificial Intelligence in Human Life**. International Journal of Research - Granthaalayah, jun. 2018. DOI: [https://doi.org/10.5281/zenodo.1302459](https://doi.org/10.5281/zenodo.1302459)
 
 KAVERMAN, Ryan. **Bad Design**. 2020. Disponível em: [http://bit.ly/3bPDqEm](http://bit.ly/3bPDqEm). Acesso em 20 fev. 2020.
 
