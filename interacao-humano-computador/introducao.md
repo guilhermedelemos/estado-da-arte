@@ -44,6 +44,16 @@
 
 ![Oculus VR](../.gitbook/assets/vr-oculus.jpg)
 
+#### Década de 2020 \(Impressoras 3D, IA, TVDI\)
+
+![Cora&#xE7;&#xE3;o 3D impresso. Fonte: Advanced Science](../.gitbook/assets/3d-printed-human-heart.jpeg)
+
+![Aplicabilidade da IA \(KAMBLE et al, 2018\)](../.gitbook/assets/ia-applicability.png)
+
+{% embed url="https://youtu.be/YpjTxcFQXo0" caption="AGDQ 2020 - The Legend of Zelda: A Link To The Past CROWD CONTROL" %}
+
+
+
 ## Impacto
 
 Frente a evolução da TIC, ela passa a fazer parte do cotidiano das mais básicas atividades até as mais complexas.
