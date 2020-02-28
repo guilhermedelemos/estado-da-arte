@@ -10,6 +10,8 @@
 
 > \[...\] a maioria dos usuários acredita que a interface é o sistema. \(HIS e HARTSON, 1993\)
 
+O contato conceitual com a interface envolve a interpretação do usuário daquilo que ele percebe através do contato físico com os dispositivos de entrada e de saída durante o uso do sistema. Essa interpretação permite ao usuário compreender as respostas do sistema e planejar os próximos caminhos de interação.
+
 * É o único meio de contato entre o usuário e o sistema.
 * Ações nos dispositivos de entrada causam reações nos dispositivos de saída.
 * Possui um nível de hardware e outro de software.
