@@ -1,6 +1,6 @@
 # Interação
 
-> É um conjunto de estímulos e respostas
+> É um conjunto de estímulos e respostas. \(A PRINCÍPIO\)
 
 > \[...\] é a comunicação com máquinas ao invés da operação de máquinas. \(CARD, MORAN e NEWELL, 1983\)
 
