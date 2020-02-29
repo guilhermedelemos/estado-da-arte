@@ -12,17 +12,17 @@
 
 > \[...\] é o processo de comunicação entre pessoas mediada por sistemas computacionais. \(SOUZA, 2005\)
 
-> \[...\] um processo de manipulação, comunicação, conversa, troca, influência, e assim por diante. \(???\)
+> \[...\] um processo de manipulação, comunicação, conversa, troca, influência, e assim por diante. \(BARBOSA, 2011\)
 
 ## Perspectivas de Interação \(segundo Kammersgaard, 1988\)
 
-> Cada uma atribui ao usuário e ao sistema determinado papel e caracteriza a interação sob um ponto de vista diferente \[...\] \(???\)
+> Cada uma atribui ao usuário e ao sistema determinado papel e caracteriza a interação sob um ponto de vista diferente \[...\] \(BARBOSA, 2011\)
 
 ### Perspectiva de Sistema
 
 O usuário é considerado um sistema computacional interagindo com o sistema por meios padronizados e rígidos.
 
-Seu principal objetivo é o aumento da eficiência e a transmissão correta dos dados, reduzindo o tempo de interação e o número de erros cometidos pelo usuário \(???\)
+> Seu principal objetivo é o aumento da eficiência e a transmissão correta dos dados, reduzindo o tempo de interação e o número de erros cometidos pelo usuário \(BARBOSA, 2011\)
 
 Exemplo: Terminal de comando dos sistemas operacionais \(windows, linux, mac, etc\).
 
@@ -42,11 +42,11 @@ Exemplo: chat bot
 
 ### Perspectiva de Ferramenta
 
-\[...\] o sistema interativo é considerado um instrumento que auxilia o usuário a realizar suas tarefas \[...\] \(???\) 
+> \[...\] o sistema interativo é considerado um instrumento que auxilia o usuário a realizar suas tarefas \[...\] \(BARBOSA, 2011\)
 
-\[...\] o processo de interação é descrito pelo encadeamento de ações e reações empregando tal ferramenta \[...\] \(???\) 
+> \[...\] o processo de interação é descrito pelo encadeamento de ações e reações empregando tal ferramenta \[...\] \(BARBOSA, 2011\)
 
-O sucesso depende do conhecimento do usuário sobre a ferramenta e de sua capacidade de manipula-la com destreza \(???\). 
+> O sucesso depende do conhecimento do usuário sobre a ferramenta e de sua capacidade de manipula-la com destreza \(BARBOSA, 2011\)
 
 A manipulação da ferramenta torna-se uma segunda natureza, ou seja, o usuário não precisa pensar em como manipular a ferramenta, sua operação deve ser automática e natural. 
 
