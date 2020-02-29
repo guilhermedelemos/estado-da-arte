@@ -6,9 +6,9 @@
 
 > Corresponde ao conjunto de características de um objeto capazes de revelar ao usuário as operações e manipulações que eles recebem. \(NORMAN, 1988\)
 
-As características físicas de um artefato evidenciam o que é possível fazer com ele e as maneiras de utilizá-lo \(???\)
+> As características físicas de um artefato evidenciam o que é possível fazer com ele e as maneiras de utilizá-lo \(BARBOSA, 2011\)
 
-O conjunto de características do hardware e do soft ware perceptíveis pelo usuário aponta para um conjunto de operações que podem ser realizadas com o sistema interativo, bem como para as formas de realizá-las manipulando os elementos da interface \(???\)
+> O conjunto de características do hardware e do software perceptíveis pelo usuário aponta para um conjunto de operações que podem ser realizadas com o sistema interativo, bem como para as formas de realizá-las manipulando os elementos da interface \(BARBOSA, 2011\)
 
 ### Exemplos
 
