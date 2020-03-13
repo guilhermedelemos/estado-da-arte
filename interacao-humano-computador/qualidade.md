@@ -18,7 +18,17 @@ Quais características a interação e a interface devem ter para serem consider
 
 > O grau em que um produto é usado por usuários específicos para atingir objetivos específicos com eficácia, eficiência e satisfação em um contexto de uso específico. \(ISO 9241-11, 1998\)
 
+Eficácia
+
+> A eficácia está relacionada com a capacidade de os usuários interagirem com o sistema para alcançar seus objetivos corretamente, conforme o esperado. \(???\)
+
+Eficiência
+
+> A eficiência está relacionada com os recursos necessários para os usuários interagirem com o sistema e alcançarem seus objetivos. Normalmente, os recursos necessários são tempo, mão de obra e materiais envolvidos. \(???\)
+
 > \[...\] um conjunto de fatores que qualificam quão bem uma pessoa pode interagir com um sistema interativo. Esses critérios estão relacionados com a facilidade e o esforço necessários para os usuários aprenderem e utilizarem um sistema. Desse modo, a usabilidade endereça principalmente a capacidade cognitiva, perceptiva e motora dos usuários empregada durante a interação. \(Nielsen, 1993\)
+
+
 
 ### Experiência do usuário
 
