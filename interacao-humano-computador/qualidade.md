@@ -1,5 +1,9 @@
 # Qualidade
 
+> Qualidade é o grau de utilidade esperado ou adquirido de qualquer coisa, verificável através da forma e dos elementos constitutivos do mesmo e pelo resultado do seu uso. \(MEIRELES, 2014\)
+
+> A palavra "qualidade" tem um conceito subjetivo que está relacionada com as percepções, necessidades e resultados em cada indivíduo. Diversos fatores, como a cultura, modelos mentais, tipo de produto ou serviço prestado, necessidades e expectativas influenciam diretamente a percepção da qualidade. \(WIKIPEDIA, 2020\)
+
 Quais características a interação e a interface devem ter para serem consideradas adequadas ou de qualidade?
 
 ## Critérios de Qualidade
