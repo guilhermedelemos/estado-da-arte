@@ -1,0 +1,2 @@
+# Lei de Fitts
+
