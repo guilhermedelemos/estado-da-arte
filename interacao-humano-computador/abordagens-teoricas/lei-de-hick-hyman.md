@@ -6,8 +6,6 @@ Relaciona o tempo em que uma pessoa leva para tomar uma decisão com a quantidad
 
 Quanto maior a quantidade de escolhas, maior o tempo para se tomar uma decisão.
 
-
-
 ## Probabilidades iguais
 
 ![](../../.gitbook/assets/hick-hyman-1.png)
@@ -25,6 +23,3 @@ A adição de 1 ao N indica a incerteza de se não escolher nenhuma das alternat
 * T = tempo médio para tomada de decisão
 * k = constante definida empiricamente
 * Pi = probabilidade de escolha
-
-
-
