@@ -1,4 +1,4 @@
-# Lei de Hick-Hayman
+# Lei de Hick-Hyman
 
 Proposto por William Edmund Hick e Ray Hyman entre 1952 e 1953.
 
