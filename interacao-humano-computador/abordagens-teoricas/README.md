@@ -4,7 +4,7 @@
 
 Mais usados:
 
-* Lei de Hick-Hayman
+* Lei de Hick-Hyman
 * Lei de Fitts
 * Processador humano de informação
 * Engenharia cognitiva
