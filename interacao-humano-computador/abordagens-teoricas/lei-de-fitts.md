@@ -10,3 +10,4 @@ Relaciona o tempo em que uma pessoa leva para aponta para algo levando em consid
 * k = constante empiricamente definida
 * D = distância até o objeto
 * S = tamanho do objeto alvo
+

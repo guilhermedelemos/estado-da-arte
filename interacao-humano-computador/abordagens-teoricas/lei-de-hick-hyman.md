@@ -23,3 +23,4 @@ A adição de 1 ao N indica a incerteza de se não escolher nenhuma das alternat
 * T = tempo médio para tomada de decisão
 * k = constante definida empiricamente
 * Pi = probabilidade de escolha
+
