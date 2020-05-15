@@ -21,8 +21,6 @@
   * [Lei de Fitts](interacao-humano-computador/abordagens-teoricas/lei-de-fitts.md)
   * [Processador Humano de Informação](interacao-humano-computador/abordagens-teoricas/processador-humano-de-informacao.md)
   * [Princípios de Gestalt](interacao-humano-computador/abordagens-teoricas/principios-de-gestalt.md)
-  * [Percepção de cores](interacao-humano-computador/abordagens-teoricas/percepcao-de-cores.md)
-  * [Engenharia Cognitiva](interacao-humano-computador/abordagens-teoricas/engenharia-cognitiva.md)
   * [Engenharia Semiótica](interacao-humano-computador/abordagens-teoricas/engenharia-semiotica.md)
 * [Referências](interacao-humano-computador/referencias.md)
 

@@ -1,2 +1,0 @@
-# Percepção de cores
-
